@@ -1,0 +1,50 @@
+[
+    {
+        "avatar": "http://joxi.ru/p27qWw9Un9KoBr",
+        "name": "Игорь Демьяненко",
+        "profession": "Product Designer",
+        "links": {
+            "instagram": "https://instagram.com/",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://facebook.com/",
+            "linkedin": "https://linkedin.com/"
+
+        }
+    },
+    {
+        "avatar": "http://joxi.ru/p27qWw9Un9KoBr",
+        "name": "Ольга Репина",
+        "profession": "Frontend Developer",
+        "links": {
+            "instagram": "https://instagram.com/",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://facebook.com/",
+            "linkedin": "https://linkedin.com/"
+
+        }
+    },
+    {
+        "avatar": "http://joxi.ru/p27qWw9Un9KoBr",
+        "name": "Николай Тарасов",
+        "profession": "Marketing",
+        "links": {
+            "instagram": "https://instagram.com/",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://facebook.com/",
+            "linkedin": "https://linkedin.com/"
+
+        }
+    },
+    {
+        "avatar": "http://joxi.ru/p27qWw9Un9KoBr",
+        "name": "Михаил Ермаков",
+        "profession": "UI Designer",
+        "links": {
+            "instagram": "https://instagram.com/",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://facebook.com/",
+            "linkedin": "https://linkedin.com/"
+
+        }
+    }
+]
